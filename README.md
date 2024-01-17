@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel</h1>
 
-- 👨‍🦱 I'm an entry-level Data Analyst
+- 👨‍🦱 I'm a Data Analyst with experience using various tools.  
 - 📉 I’m looking for Data Analysis jobs/internships
-- 📊 Apart from the tools listed, I also have experience using Tableau 
+- 📊 Apart from the tools listed below, I also have experience using Tableau 
 - 📫 How to reach me **emmanueloware25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
